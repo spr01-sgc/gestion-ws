@@ -1,6 +1,6 @@
 <%--
    Document   : index
-   Author  Hasani
+   Author  Daniel Loza
    Empresa SOMA
    Version 1.0
 --%>
