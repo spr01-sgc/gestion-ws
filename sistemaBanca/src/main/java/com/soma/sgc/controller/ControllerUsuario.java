@@ -36,7 +36,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Administra los accesos a los JSP metodos de operacion con el usuario
  *
- * @author Jasmin Santana
+ * @author Manuel Loza
  */
 @Controller
 @RequestMapping("/")
